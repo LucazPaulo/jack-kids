@@ -979,8 +979,14 @@
             <div class="row">
 
                 <div class="col-lg-3 col-md-6 footer-info">
-                    <img src="img/logo.png" alt="TheEvenet">
-                    <p>A Jack Kids é uma empresa de locação de brinquedos diversos para trazer maior divertimento para sua festa, com muita responsabilidade e compremetimento com seus clientes</p>
+                 <!--   <img src="img/logo.png" alt="TheEvenet"> -->
+                    <div id="logo" class="pull-left">
+                        <!-- Uncomment below if you prefer to use a text logo -->
+                        <h1><a href="#intro" class="scrollto"><span>J</span>ack<span> K</span>ids</a></h1>
+                        <!--  <a href="#intro" class="scrollto"><img src="img/logo.png" alt="" title=""></a> -->
+                        <p>A Jack Kids é uma empresa de locação de brinquedos diversos para trazer maior divertimento para sua festa, com muita responsabilidade e compremetimento com seus clientes</p>
+                    </div>
+
                 </div>
 
                 <div class="col-lg-3 col-md-6 footer-links">
