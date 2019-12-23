@@ -233,7 +233,7 @@
 
                 <div class="col-lg-4 col-md-6">
                     <div class="speaker">
-                        <img src="img/profissionais/6.jpg" alt="Speaker 6" class="img-fluid">
+                        <img src="img/profissionais/cleane.jpeg" alt="Speaker 6" class="img-fluid">
                         <div class="details">
                             <h3><a href="speaker-details.html">Cleane Santos</a></h3>
                             <p>CEO</p>
