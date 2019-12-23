@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>TheEvent - Bootstrap Event Template</title>
+    <title>Jack Kids</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -52,14 +52,14 @@
         <nav id="nav-menu-container">
             <ul class="nav-menu">
                 <li class="menu-active"><a href="#intro">Home</a></li>
-                <li><a href="#about">About</a></li>
+                <li><a href="#about">Sobre</a></li>
                 <li><a href="#speakers">Speakers</a></li>
                 <li><a href="#schedule">Schedule</a></li>
                 <li><a href="#venue">Venue</a></li>
                 <li><a href="#hotels">Hotels</a></li>
-                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#gallery">Galeria</a></li>
                 <li><a href="#supporters">Sponsors</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#contact">Contato</a></li>
                 <li class="buy-tickets"><a href="#buy-tickets">Buy Tickets</a></li>
             </ul>
         </nav><!-- #nav-menu-container -->
@@ -71,11 +71,10 @@
 ============================-->
 <section id="intro">
     <div class="intro-container wow fadeIn">
-        <h1 class="mb-4 pb-0">The Annual<br><span>Marketing</span> Conference</h1>
-        <p class="mb-4 pb-0">10-12 December, Downtown Conference Center, New York</p>
+        <h1 class="mb-4 pb-0">Jack Kids<br><span>Alugue</span> de brinquedos</h1>
         <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
            data-autoplay="true"></a>
-        <a href="#about" class="about-btn scrollto">About The Event</a>
+        <a href="#about" class="about-btn scrollto">Sobre</a>
     </div>
 </section>
 
@@ -88,7 +87,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>About The Event</h2>
+                    <h2>Sobre</h2>
                     <p>Sed nam ut dolor qui repellendus iusto odit. Possimus inventore eveniet accusamus error amet eius aut
                         accusantium et. Non odit consequatur repudiandae sequi ea odio molestiae. Enim possimus sunt inventore in
                         est ut optio sequi unde.</p>
