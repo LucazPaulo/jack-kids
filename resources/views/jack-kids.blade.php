@@ -72,7 +72,7 @@
 <section id="intro">
     <div class="intro-container wow fadeIn">
         <h1 class="mb-4 pb-0">Jack Kids<br><span>Alugue</span> de brinquedos</h1>
-        <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
+        <a href="https://www.youtube.com/watch?v=od-330RaLX8&feature=youtu.be" class="venobox play-btn mb-4" data-vbtype="video"
            data-autoplay="true"></a>
         <a href="#venue" class="about-btn scrollto">Brinquedos</a>
     </div>
@@ -591,14 +591,20 @@
         </div>
 
         <div class="owl-carousel gallery-carousel">
-            <a href="img/gallery/1.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/1.jpg" alt=""></a>
-            <a href="img/gallery/2.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/2.jpg" alt=""></a>
-            <a href="img/gallery/3.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/3.jpg" alt=""></a>
-            <a href="img/gallery/4.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/4.jpg" alt=""></a>
-            <a href="img/gallery/5.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/5.jpg" alt=""></a>
-            <a href="img/gallery/6.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/6.jpg" alt=""></a>
-            <a href="img/gallery/7.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/7.jpg" alt=""></a>
-            <a href="img/gallery/8.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/8.jpg" alt=""></a>
+            <a href="img/brinquedos/castelinho.jpeg" class="venobox" data-gall="gallery-carousel"><img src="img/brinquedos/castelinho.jpeg" alt=""></a>
+            <a href="img/brinquedos/crepe-pipoca-algodao.jpeg" class="venobox" data-gall="gallery-carousel"><img src="img/brinquedos/crepe-pipoca-algodao.jpeg" alt=""></a>
+            <a href="img/brinquedos/escorrega.jpeg" class="venobox" data-gall="gallery-carousel"><img src="img/brinquedos/escorrega.jpeg" alt=""></a>
+            <a href="img/brinquedos/escorrega2.jpeg" class="venobox" data-gall="gallery-carousel"><img src="img/brinquedos/escorrega2.jpeg" alt=""></a>
+            <a href="img/brinquedos/escorrega-castelinho.jpeg" class="venobox" data-gall="gallery-carousel"><img src="img/brinquedos/escorrega-castelinho.jpeg" alt=""></a>
+            <a href="img/brinquedos/escorrega-castelinho-pscina.jpeg" class="venobox" data-gall="gallery-carousel"><img src="img/brinquedos/escorrega-castelinho-pscina.jpeg" alt=""></a>
+            <a href="img/brinquedos/futebol.jpeg" class="venobox" data-gall="gallery-carousel"><img src="img/brinquedos/futebol.jpeg" alt=""></a>
+            <a href="img/brinquedos/futebol2.jpeg" class="venobox" data-gall="gallery-carousel"><img src="img/brinquedos/futebol2.jpeg" alt=""></a>
+            <a href="img/brinquedos/futebol3.jpeg" class="venobox" data-gall="gallery-carousel"><img src="img/brinquedos/futebol3.jpeg" alt=""></a>
+            <a href="img/brinquedos/piscina.jpeg" class="venobox" data-gall="gallery-carousel"><img src="img/brinquedos/piscina.jpeg" alt=""></a>
+            <a href="img/brinquedos/pulapula.jpeg" class="venobox" data-gall="gallery-carousel"><img src="img/brinquedos/pulapula.jpeg" alt=""></a>
+            <a href="img/brinquedos/pulapula2.jpeg" class="venobox" data-gall="gallery-carousel"><img src="img/brinquedos/pulapula2.jpeg" alt=""></a>
+            <a href="img/brinquedos/pulapulap.jpeg" class="venobox" data-gall="gallery-carousel"><img src="img/brinquedos/pulapulap.jpeg" alt=""></a>
+
         </div>
 
     </section>
@@ -916,8 +922,9 @@
                     <div class="contact-phone">
                         <i class="ion-ios-telephone-outline"></i>
                         <h3>Telefone/WhatsApp</h3>
-                        <p><a href="tel:+5582998376251">+55 82 9 9837-6251</a></p>
-                        <p><a href="tel:+5582999999999<">+55 82 9 9999-9999</a></p>
+                        <p><a href="tel:+5582987054982">82 9 87054982</a></p>
+                        <p><a href="tel:+5582998376251<">82 9 98376251</a></p>
+                        <p><a href="tel:+5582987054985<">82 9 87054985</a></p>
                     </div>
                 </div>
 
@@ -1005,8 +1012,9 @@
                         Maceió/AL, Nº122<br>
                         United States <br>
                         <strong>Telefone/WhatsApp:</strong> <br>
-                    <a href="tel:+5582998376251">+55 82 9 9837-6251</a><br>
-                    <a href="tel:+5582999999999">+55 82 9 9999-9999</a><br>
+                    <a href="tel:+5582987054982">82 9 87054982</a><br>
+                    <a href="tel:+5582998376251">82 9 98376251</a><br>
+                    <a href="tel:+5582987054985">82 9 87054985</a><br>
                         <strong>Email:</strong> jackinhokids@example.com<br>
                     </p>
 
