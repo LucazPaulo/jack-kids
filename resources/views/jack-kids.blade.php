@@ -61,6 +61,7 @@
                <!-- <li><a href="#supporters">Sponsors</a></li> -->
                 <li><a href="#contact">Contato</a></li>
                 <li class="buy-tickets"><a href="#buy-tickets">Preços</a></li>
+                 <li><a href="home">Contato</a></li>
             </ul>
         </nav><!-- #nav-menu-container -->
     </div>
