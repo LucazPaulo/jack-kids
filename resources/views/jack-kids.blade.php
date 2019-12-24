@@ -73,7 +73,7 @@
 ============================-->
 <section id="intro">
     <div class="intro-container wow fadeIn">
-        <h1 class="mb-4 pb-0">Jack Kids<br><span>Alugue</span> de brinquedos</h1>
+        <h1 class="mb-4 pb-0">Jack Kids<br><span>Aluguel</span> de brinquedos</h1>
         <a href="https://www.youtube.com/watch?v=od-330RaLX8&feature=youtu.be" class="venobox play-btn mb-4" data-vbtype="video"
            data-autoplay="true"></a>
         <a href="#venue" class="about-btn scrollto">Brinquedos</a>
