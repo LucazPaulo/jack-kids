@@ -19,4 +19,7 @@ Route::get('testeLucas', 'UsuarioController@teste')->name('teste');
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/home', 'AgendaController@index')->name('home');
+
+
+//Route::get('/agenda', 'AgendaController@index');
